@@ -59,8 +59,8 @@ export default {
 				case 2:
 					break;
 			}
-			let a=1,
-				b=2,
+			let a = 1,
+				b = 2,
 				c = 3;
 			console.log(a, b, c);
 			var foo = {
@@ -73,7 +73,7 @@ export default {
 			var e = 5;
 			var list = [1, 2];
 			a++;
-			var fun = (function () {
+			var fun = (function() {
 				return { y: 1 };
 			})();
 		},
