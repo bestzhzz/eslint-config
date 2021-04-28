@@ -80,7 +80,7 @@ export default {
 				c=3;
 			console.log(a, b, c);
 			var foo = {
-				a: '1',
+				a:'1',
 				b: 2,
 				c: 3,
 			};
