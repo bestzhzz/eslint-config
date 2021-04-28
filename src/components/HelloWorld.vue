@@ -7,48 +7,32 @@
 				<a href="https://vuejs.org" target="_blank">Core Docs</a>
 			</li>
 			<li>
-				<a href="https://forum.vuejs.org" target="_blank">
-					Forum
-				</a>
+				<a href="https://forum.vuejs.org" target="_blank"> Forum </a>
 			</li>
 			<li>
-				<a href="https://chat.vuejs.org" target="_blank">
-					Community Chat
-				</a>
+				<a href="https://chat.vuejs.org" target="_blank"> Community Chat </a>
 			</li>
 			<li>
-				<a href="https://twitter.com/vuejs" target="_blank">
-					Twitter
-				</a>
+				<a href="https://twitter.com/vuejs" target="_blank"> Twitter </a>
 			</li>
 			<br />
 			<li>
-				<a href="http://vuejs-templates.github.io/webpack/" target="_blank">
-					Docs for This Template
-				</a>
+				<a href="http://vuejs-templates.github.io/webpack/" target="_blank"> Docs for This Template </a>
 			</li>
 		</ul>
 		<h2>Ecosystem</h2>
 		<ul>
 			<li>
-				<a href="http://router.vuejs.org/" target="_blank">
-					vue-router
-				</a>
+				<a href="http://router.vuejs.org/" target="_blank"> vue-router </a>
 			</li>
 			<li>
-				<a href="http://vuex.vuejs.org/" target="_blank">
-					vuex
-				</a>
+				<a href="http://vuex.vuejs.org/" target="_blank"> vuex </a>
 			</li>
 			<li>
-				<a href="http://vue-loader.vuejs.org/" target="_blank">
-					vue-loader
-				</a>
+				<a href="http://vue-loader.vuejs.org/" target="_blank"> vue-loader </a>
 			</li>
 			<li>
-				<a href="https://github.com/vuejs/awesome-vue" target="_blank">
-					awesome-vue
-				</a>
+				<a href="https://github.com/vuejs/awesome-vue" target="_blank"> awesome-vue </a>
 			</li>
 		</ul>
 	</div>
@@ -69,18 +53,18 @@ export default {
 		// 啊哈
 		test(num, nums) {
 			console.log(111);
-			switch (1){
+			switch (1) {
 				case 1:
 					break;
 				case 2:
 					break;
 			}
-			let a =1,
+			let a=1,
 				b=2,
-				c=3;
+				c = 3;
 			console.log(a, b, c);
 			var foo = {
-				a:'1',
+				a: '1',
 				b: 2,
 				c: 3,
 			};
@@ -89,7 +73,7 @@ export default {
 			var e = 5;
 			var list = [1, 2];
 			a++;
-			var fun = (function() {
+			var fun = (function () {
 				return { y: 1 };
 			})();
 		},
