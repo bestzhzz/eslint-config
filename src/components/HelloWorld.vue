@@ -69,15 +69,15 @@ export default {
 		// 啊哈
 		test(num, nums) {
 			console.log(111);
-			switch (1) {
+			switch (1){
 				case 1:
 					break;
 				case 2:
 					break;
 			}
-			let a = 1,
-				b = 2,
-				c = 3;
+			let a =1,
+				b=2,
+				c=3;
 			console.log(a, b, c);
 			var foo = {
 				a: '1',
