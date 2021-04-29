@@ -63,7 +63,6 @@ export default {
 				b = 2,
 				c = 3;
 			console.log(a, b, c);
-			b--;
 
 			var foo = {
 				a: '1',
